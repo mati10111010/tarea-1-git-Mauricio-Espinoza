@@ -6,7 +6,7 @@ Soy un programador de SENATI con experiencia en Python, desarrollo web con Flask
 ## Habilidades:
 Python: Desarrollo de aplicaciones de escritorio y web.
 
-Flask: Desarrollo de aplicaciones web.
+React
 
 Java (JSP, MVC): Desarrollo de aplicaciones web y gestión de bases de datos.
 
